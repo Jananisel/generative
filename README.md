@@ -1,1 +1,1 @@
-kaggle datasets download -d sshikamaru/glaucoma-detection
+# kaggle datasets download -d sshikamaru/glaucoma-detection
